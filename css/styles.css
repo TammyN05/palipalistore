@@ -188,3 +188,7 @@ a.custom-card:hover {
 .checked {
   color: orange;
 }
+
+.list-group-item:first-child {
+  margin-top: 50px;
+}
